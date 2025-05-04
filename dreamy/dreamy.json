@@ -249,34 +249,22 @@
             "#000000"
         ],
         "HEADER_PRIMARY": [
-            "#dcddde",
-            "#0a2848",
-            "#dcddde"
+            "#6e44e5"
         ],
         "HEADER_SECONDARY": [
-            "#2780E6",
-            "#2780E6",
-            "#2780E6"
+            "#6e44e5"
         ],
         "INFO_DANGER_BACKGROUND": [
-            "#0a2848",
-            "#dcddde",
-            "#071e36"
+            "#0a2848"
         ],
         "INFO_DANGER_FOREGROUND": [
-            "#061428",
-            "#7eb3f0",
-            "#000000"
+            "#7eb3f0"
         ],
         "INFO_DANGER_TEXT": [
-            "#fb4934",
-            "#9d0006",
             "#fb4934"
         ],
         "INFO_HELP_BACKGROUND": [
-            "#0a2848",
-            "#dcddde",
-            "#000000"
+            "#0a2848"
         ],
         "INFO_HELP_FOREGROUND": [
             "#071e36",

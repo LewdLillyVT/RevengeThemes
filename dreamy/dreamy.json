@@ -516,7 +516,7 @@
 	"PLUM_22": "#0f1428"
     },
     "background": {
-        "url": "https://raw.githubusercontent.com/jamlotrasoiaf/ThemesCorrected/refs/heads/main/ClearVision/Vendetta/dark.jpg",
+        "url": "https://raw.githubusercontent.com/LewdLillyVT/RevengeThemes/refs/heads/main/dreamy/Dreamy.jpg",
 	"alpha": 1
     },
     "plus": {
@@ -529,8 +529,7 @@
             "ic_soundboard_muted": "#102b47",
             "ic_video": "#102b47",
             "ic_video_disabled": "#102b47"
-        },
-        "iconpack":"rosiecord-plumpy"
+        }
     },
     "spec": 2
             }
